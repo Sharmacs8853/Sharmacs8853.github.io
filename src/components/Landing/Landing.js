@@ -71,7 +71,7 @@ function Landing() {
             <div className='landing--container'>
                 <div
                     className='landing--container-left'
-                    style={{ backgroundColor: theme.primary }}
+                    style={{ backgroundColor: theme.secondary }}
                 >
                     <div className='lcl--content'>
                         {socialsData.linkedIn && (

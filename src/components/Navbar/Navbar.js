@@ -213,7 +213,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/#skill'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -223,15 +223,15 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Education
+                                        Skills
                                     </span>
                                 </div>
                             </NavLink>
                         </Fade>
 
-                        {/* <Fade left>
+                        <Fade left>
                             <NavLink
-                                to='/#services'
+                                to='/'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -241,15 +241,15 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                        Resume
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade> */}
+                        </Fade>
 
                         <Fade left>
                             <NavLink
-                                to='/#blog'
+                                to='/#projects'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -259,7 +259,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Blog
+                                    Projects
                                     </span>
                                 </div>
                             </NavLink>

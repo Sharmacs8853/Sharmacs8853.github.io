@@ -23,7 +23,7 @@ function About() {
                 </div>
                 <div className="about-img">
                     <img 
-                        src={about_img2} alt=''
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-lDrVzVUUou_SL6JysO9Wv-h4nqjgOOY5VHCIxgvEJXnDAYJfTxPZ7KxllzlkypJ_zo&usqp=CAU" alt=''
                     />
                 </div>
                 
